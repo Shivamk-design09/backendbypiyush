@@ -1,0 +1,16 @@
+REST API
+
+
+get /user = list all users
+
+get /user/1
+get /user/2 get the user  with id 1
+
+
+Post  /users    -create new user
+
+
+patch /user/id  edit the user with id
+
+
+delte /user/1 = deltete the user with id1
